@@ -1,0 +1,6 @@
+{
+  "name": "Discover Sri Lanka",
+  "description": "Explore the Island. Discover the Extraordinary. Complete travel guide for Sri Lanka featuring 13 top destinations, attractions, hotels, dining, and interactive maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
